@@ -17,7 +17,7 @@
         <dependency> <!-- junit 4.7 -->
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <type>jar</type>
             <scope>test</scope>
         </dependency>
